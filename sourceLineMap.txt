@@ -1,0 +1,7 @@
+Address = 0x000000be  File:line:col:begin = C:\Users\upK\Documents\AVRstudio\default/../Lab1.c:5:0:-1
+Address = 0x000000be  File:line:col:begin = C:\Users\upK\Documents\AVRstudio\default/../Lab1.c:8:0:-1
+Address = 0x000000c0  File:line:col:begin = C:\Users\upK\Documents\AVRstudio\default/../Lab1.c:9:0:-1
+Address = 0x000000c4  File:line:col:begin = C:\Users\upK\Documents\AVRstudio\default/../Lab1.c:14:0:-1
+Address = 0x000000c6  File:line:col:begin = C:\Users\upK\Documents\AVRstudio\default/../Lab1.c:21:0:-1
+Address = 0x000000ca  File:line:col:begin = C:\Users\upK\Documents\AVRstudio\default/../Lab1.c:23:0:-1
+Address = 0x000000ce  File:line:col:begin = C:\Users\upK\Documents\AVRstudio\default/../Lab1.c:23:0:-1
